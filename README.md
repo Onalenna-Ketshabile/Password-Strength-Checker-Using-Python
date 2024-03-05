@@ -20,7 +20,7 @@ The Password Strength Checker evaluates the strength of passwords to help users 
 ## Requirements
 
 - Python 3.x
-- Operating System with terminal support
+
 
 ## Installation
 
